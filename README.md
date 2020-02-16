@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Code 201 Reading Notes
+*In this note you will see all the notes that relate for this course:*
+| **Title**  | **URL** |
+| ------------- | ------------- |
+| Read 01  | the link is *here*  |
+| Read 02  | the link is *here*  |
+| Read 03  | the link is *here*  |
+| Read 04  | the link is *here*  |
+| Read 05  | the link is *here*  |
+| Read 06  | the link is *here*  |
+| Read 07  | the link is *here*  |
+| Read 08  | the link is *here*  |
+| Read 09  | the link is *here*  |
+| Read 10  | the link is *here*  |
+| Read 11  | the link is *here*  |
+| Read 12  | the link is *here*  |
+| Read 13  | the link is *here*  |
+| Read 14  | the link is *here*  |
+| Read 15  | the link is *here*  |
 
-You can use the [editor on GitHub](https://github.com/Hammadsoloman/reading-notes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### If u have any note plz send it to my Email Hammadali95@yahoo.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hammadsoloman/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![image](https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/11/github-image-796x418.png)
